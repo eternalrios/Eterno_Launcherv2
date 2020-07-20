@@ -423,16 +423,6 @@ namespace Eterno_Launcher.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap backgraung {
-            get {
-                object obj = ResourceManager.GetObject("backgraung", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap bg_games_01 {
             get {
                 object obj = ResourceManager.GetObject("bg_games_01", resourceCulture);
